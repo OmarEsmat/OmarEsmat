@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Esmat</h1>
 <h3 align="center">A passionate Machine Learning Engineering from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
+<img align="right" alt="Coding" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)"/>
 
 - 🌱 I’m currently learning **machine learning**
 
